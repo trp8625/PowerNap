@@ -1,4 +1,3 @@
-# PowerNap
 # PowerNap: Carbon-Aware Grid Intensity Forecasting
 
 **NYU | Tanvi Patel, Alexandra Lugo, Alex Muzila, Benny Yuan, Srivar Janna**
